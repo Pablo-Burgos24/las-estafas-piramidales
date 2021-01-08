@@ -1,0 +1,30 @@
+body {
+
+     background:#ff8000;
+
+
+     color:#fff;
+ }
+
+
+h1  {
+
+    font-size:55px;
+
+}
+
+
+
+h3  {
+
+    background:#ff4000 10px;
+
+    border:solid 11px;
+
+    padding:10px;        /*caca */
+
+    width:400px;
+
+    color:#ff8000;
+
+}
